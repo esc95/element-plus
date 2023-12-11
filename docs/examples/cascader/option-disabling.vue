@@ -12,6 +12,7 @@ const options = [
       {
         value: 'disciplines',
         label: 'Disciplines',
+        disabled: false,
         children: [
           {
             value: 'consistency',
